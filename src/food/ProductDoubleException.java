@@ -1,3 +1,5 @@
+package food;
+
 public class ProductDoubleException extends RuntimeException {
 
     public ProductDoubleException() {

@@ -1,3 +1,5 @@
+package food;
+
 public class RecipeDoubleException extends RuntimeException {
 
     public RecipeDoubleException() {

@@ -32,7 +32,7 @@ public class ProductList {
         }
     }
 
-    private Product nonNull(Product product) {
+    private static Product nonNull(Product product) {
         if (product == null) {
             throw new IllegalArgumentException("Продукт не может быть null!");
         } else {

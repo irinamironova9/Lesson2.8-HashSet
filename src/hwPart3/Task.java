@@ -1,4 +1,4 @@
-package part3.Task2and3;
+package hwPart3;
 
 import java.util.Objects;
 import java.util.Random;
